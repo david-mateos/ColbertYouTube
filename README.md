@@ -1,4 +1,4 @@
-# Colbert YouTube SpreadSheet
+# Colbert YouTube G Spreadsheet
 Ever wanted a quick view of the last clips from Colbert?
 
 To run, in a new Google Sheet, click Tools > Script editor 
